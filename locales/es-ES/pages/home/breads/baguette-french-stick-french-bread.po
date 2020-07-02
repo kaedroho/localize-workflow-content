@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 22:28:43.215271+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6f091c7d-ae8d-44e9-99bf-931c6fb212db\n"
+
+msgctxt "title"
+msgid "Baguette"
+msgstr ""
+
+msgctxt "introduction"
+msgid "A baguette has a diameter of about 5 or 6 centimetres  and a usual length of about 65 centimetres (26 in), although a baguette can be up to a metre (39 in) long."
+msgstr ""

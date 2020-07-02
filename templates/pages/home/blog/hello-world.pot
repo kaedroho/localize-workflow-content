@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-02 22:28:43.745441+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Hello World"
+msgstr ""
+
+msgctxt "subtitle"
+msgid "Paris is the capital of France"
+msgstr ""
+
+msgctxt "introduction"
+msgid "This and that"
+msgstr ""
+
+msgctxt "body.d286b97f-c813-45c2-8f23-569eb1490ea3"
+msgid "Paragraph here"
+msgstr ""
