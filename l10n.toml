@@ -1,15 +1,47 @@
 locales = [ "es-ES", "es-MX", "fr", "ja",]
 [[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
-
-[[paths]]
-reference = "templates/pages/home.pot"
-l10n = "locales/{locale}/pages/home.po"
+reference = "templates/snippets/breads.BreadType/6-varies-widely.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/6-varies-widely.po"
 
 [[paths]]
 reference = "templates/pages/home/breads.pot"
 l10n = "locales/{locale}/pages/home/breads.po"
+
+[[paths]]
+reference = "templates/pages/home/breads/appam-hoppers.pot"
+l10n = "locales/{locale}/pages/home/breads/appam-hoppers.po"
+
+[[paths]]
+reference = "templates/snippets/breads.Country/5-india-kerala-sri-lanka.pot"
+l10n = "locales/{locale}/snippets/breads.Country/5-india-kerala-sri-lanka.po"
+
+[[paths]]
+reference = "templates/snippets/breads.Country/21-india-pakistan.pot"
+l10n = "locales/{locale}/snippets/breads.Country/21-india-pakistan.po"
+
+[[paths]]
+reference = "templates/snippets/breads.BreadType/14-unleavened-flatbread.pot"
+l10n = "locales/{locale}/snippets/breads.BreadType/14-unleavened-flatbread.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
+reference = "templates/pages/home.pot"
+l10n = "locales/{locale}/pages/home.po"
+
+[[paths]]
+reference = "templates/pages/home/blog/wild-yeast.pot"
+l10n = "locales/{locale}/pages/home/blog/wild-yeast.po"
+
+[[paths]]
+reference = "templates/pages/home/blog/bread-circuses.pot"
+l10n = "locales/{locale}/pages/home/blog/bread-circuses.po"
+
+[[paths]]
+reference = "templates/pages/home/blog/icelandic-baking.pot"
+l10n = "locales/{locale}/pages/home/blog/icelandic-baking.po"
 
 [[paths]]
 reference = "templates/pages/home/breads/anadama-bread.pot"
@@ -34,18 +66,6 @@ l10n = "locales/{locale}/snippets/breads.Country/4-japan.po"
 [[paths]]
 reference = "templates/snippets/breads.BreadType/5-sweet-bun.pot"
 l10n = "locales/{locale}/snippets/breads.BreadType/5-sweet-bun.po"
-
-[[paths]]
-reference = "templates/pages/home/breads/appam-hoppers.pot"
-l10n = "locales/{locale}/pages/home/breads/appam-hoppers.po"
-
-[[paths]]
-reference = "templates/snippets/breads.Country/5-india-kerala-sri-lanka.pot"
-l10n = "locales/{locale}/snippets/breads.Country/5-india-kerala-sri-lanka.po"
-
-[[paths]]
-reference = "templates/snippets/breads.BreadType/6-varies-widely.pot"
-l10n = "locales/{locale}/snippets/breads.BreadType/6-varies-widely.po"
 
 [[paths]]
 reference = "templates/pages/home/breads/arepa.pot"
@@ -104,14 +124,6 @@ reference = "templates/pages/home/breads/bhakri.pot"
 l10n = "locales/{locale}/pages/home/breads/bhakri.po"
 
 [[paths]]
-reference = "templates/snippets/breads.Country/21-india-pakistan.pot"
-l10n = "locales/{locale}/snippets/breads.Country/21-india-pakistan.po"
-
-[[paths]]
-reference = "templates/snippets/breads.BreadType/14-unleavened-flatbread.pot"
-l10n = "locales/{locale}/snippets/breads.BreadType/14-unleavened-flatbread.po"
-
-[[paths]]
 reference = "templates/pages/home/breads/black-bread.pot"
 l10n = "locales/{locale}/pages/home/breads/black-bread.po"
 
@@ -162,18 +174,6 @@ l10n = "locales/{locale}/pages/home/locations/akranes.po"
 [[paths]]
 reference = "templates/pages/home/blog.pot"
 l10n = "locales/{locale}/pages/home/blog.po"
-
-[[paths]]
-reference = "templates/pages/home/blog/wild-yeast.pot"
-l10n = "locales/{locale}/pages/home/blog/wild-yeast.po"
-
-[[paths]]
-reference = "templates/pages/home/blog/bread-circuses.pot"
-l10n = "locales/{locale}/pages/home/blog/bread-circuses.po"
-
-[[paths]]
-reference = "templates/pages/home/blog/icelandic-baking.pot"
-l10n = "locales/{locale}/pages/home/blog/icelandic-baking.po"
 
 [[paths]]
 reference = "templates/pages/home/blog/joy-baking-soda.pot"
