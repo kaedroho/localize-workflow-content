@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-07 12:13:30.889194+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "A new blog page"
+msgstr ""
+
+msgctxt "subtitle"
+msgid "Example content from Tom"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Sparkling prose here"
+msgstr ""
+
+msgctxt "body.f389575f-c35c-46f3-b1a5-0a9b9f1b0f9e"
+msgid "My first paragraph"
+msgstr ""
