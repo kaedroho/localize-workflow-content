@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-07 10:04:30.311027+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 618eab10-5cc4-4fdd-b252-915400606b3c\n"
+
+msgctxt "title"
+msgid "Bolani"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Perakai is made for special occasions like birthday parties, engagement parties or holidays."
+msgstr ""

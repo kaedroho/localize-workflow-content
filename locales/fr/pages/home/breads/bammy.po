@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-07 10:04:29.794289+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: c16a6d73-a1e5-4bd9-a2e1-55e52cf340d1\n"
+
+msgctxt "title"
+msgid "Bammy"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Bammies, like wheat bread and tortillas, are served at any meal or consumed as a snack."
+msgstr ""

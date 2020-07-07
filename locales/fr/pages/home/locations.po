@@ -1,0 +1,15 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-07 10:04:30.388043+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 60a7fac9-cbd1-45a7-b5d9-ffa6d4323a29\n"
+
+msgctxt "title"
+msgid "Locations"
+msgstr ""
+
+msgctxt "introduction"
+msgid "You can find our fine bakeries in friendly cities all over the world."
+msgstr ""

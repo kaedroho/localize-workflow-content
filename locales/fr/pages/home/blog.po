@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-07 10:04:30.621006+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: bc5ca3af-f747-4334-80ea-95af8fed3001\n"
+
+msgctxt "title"
+msgid "Blog"
+msgstr ""
+
+msgctxt "seo_title"
+msgid "Wagtail Bakeries Blog"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Welcome to our blog"
+msgstr ""
