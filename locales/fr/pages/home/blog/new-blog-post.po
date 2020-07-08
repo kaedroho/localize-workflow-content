@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-08 11:33:54.628521+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 09ef2a59-9857-400a-b5df-2d5306611e5d\n"
+
+msgctxt "title"
+msgid "A new blog post"
+msgstr "Un nouveau billet de blog"
+
+msgctxt "subtitle"
+msgid "Something by Tom"
+msgstr "Quelque chose par Tom"
+
+msgctxt "introduction"
+msgid "Sparkling prose goes here"
+msgstr "prose étincelante va ici"
+
+msgctxt "body.c822cdbe-d64f-4dc0-88cc-1bbbe5b1db2c"
+msgid "My first paragraph"
+msgstr "Mon premier alinéa"

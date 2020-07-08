@@ -1,2 +1,9 @@
 locales = [ "es-ES", "es-MX", "fr", "ja",]
-paths = []
+[[paths]]
+reference = "templates/pages/home/blog/new-blog-post.pot"
+l10n = "locales/{locale}/pages/home/blog/new-blog-post.po"
+
+[[paths]]
+reference = "templates/pages/home/blog.pot"
+l10n = "locales/{locale}/pages/home/blog.po"
+
