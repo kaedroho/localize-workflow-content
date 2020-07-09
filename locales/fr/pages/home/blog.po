@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Blog"
-msgstr ""
+msgstr "French blog"
 
 msgctxt "seo_title"
 msgid "Wagtail Bakeries Blog"
