@@ -8,7 +8,7 @@ msgstr ""
 
 msgctxt "title"
 msgid "Welcome to the Wagtail Bakery!"
-msgstr ""
+msgstr "This is a test in french"
 
 msgctxt "seo_title"
 msgid "Home"
