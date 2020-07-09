@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-09 13:10:13.788823+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 511c92fb-66af-4c57-9808-6620b7deadaf\n"
+
+msgctxt "title"
+msgid "United States (New England)"
+msgstr ""

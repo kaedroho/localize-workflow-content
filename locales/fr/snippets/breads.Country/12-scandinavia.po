@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-09 13:10:14.228985+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 6844bca8-fe5b-43dc-bab8-acba95916f17\n"
+
+msgctxt "title"
+msgid "Scandinavia"
+msgstr ""
