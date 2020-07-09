@@ -12,7 +12,7 @@ msgstr "This is the japanese homepage"
 
 msgctxt "seo_title"
 msgid "Home"
-msgstr ""
+msgstr "This is a test"
 
 msgctxt "hero_text"
 msgid "A sample site designed to demonstrate the capabilities of the Wagtail Content Management System."
