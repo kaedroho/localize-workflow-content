@@ -7,9 +7,9 @@ msgstr ""
 "X-WagtailLocalize-TranslationID: a012a56b-bf60-47cf-bfbf-7c8909eb97dd\n"
 
 msgctxt "title"
-msgid "Breads"
-msgstr ""
+msgid "Breads foo"
+msgstr "foo Breads"
 
 msgctxt "introduction"
 msgid "We feature outlandishly delicious breads sourced from every continent (except Antarctica)"
-msgstr ""
+msgstr "Nous sommes fiers de pains délicieux saugrenus provenant de tous les continents (sauf l'Antarctique)"
