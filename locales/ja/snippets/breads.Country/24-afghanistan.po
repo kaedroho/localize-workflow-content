@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2020-07-09 09:22:44.858909+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: eb9528a4-7a84-4e26-94ac-34f24a239579\n"
+
+msgctxt "title"
+msgid "Afghanistan"
+msgstr ""
