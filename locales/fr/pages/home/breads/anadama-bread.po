@@ -8,10 +8,12 @@ msgstr ""
 
 msgctxt "title"
 msgid "Anadama"
-msgstr ""
+msgstr "Anadama"
 
 msgctxt "introduction"
 msgid ""
 "It is not readily agreed exactly when or where the bread originated, except it existed before 1850 in Rockport, Massachusetts. It is thought to have come from the local fishing community, but it may"
 " have come through the Finnish community of local stonecutters."
 msgstr ""
+"Il est pas facilement d'accord exactement quand et où le pain est originaire, sauf qu'il existait avant 1850 à Rockport, Massachusetts. On pense venir de la communauté locale de la pêche, mais il a "
+"peut-être passer par la communauté finlandaise des tailleurs de pierre locaux."
