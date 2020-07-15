@@ -8,16 +8,16 @@ msgstr ""
 
 msgctxt "title"
 msgid "My new blog page"
-msgstr ""
+msgstr "Ma nouvelle page de blog"
 
 msgctxt "subtitle"
 msgid "Some sparkling prose"
-msgstr ""
+msgstr "La prose étincelante"
 
 msgctxt "introduction"
 msgid "A paragraph here"
-msgstr ""
+msgstr "Un paragraphe ici"
 
 msgctxt "body.ed179eac-a3e8-4936-ba86-38cac85cc926"
 msgid "My first text"
-msgstr ""
+msgstr "Mon premier texte"
